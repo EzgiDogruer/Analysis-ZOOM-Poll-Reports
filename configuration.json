@@ -1,0 +1,22 @@
+
+{
+	"StudentList": "SinifListesi.XLS",
+    "ReadPollName": "97056655049_PollReport_20-10-2020",
+	"AttendanceOutput": "attendance.xls",
+	"globalOutput": "Global.xlsx",
+	"attendanceFileTitles": ["No","Name","Surname","Attendance","Total Polls","RATE"],
+	"quizPollTitles": ["Student Number","Student Name","Total Questions","Correct Answers","Wrong Answers","Empty Answers","Success Rate","SuccessPercentage"],
+    "globalFileTitles": ["Student Number","Student Name","Student Surname"],
+	"pollQuizPathBegin": "Poll_Results_",
+	"readAnswerKeyTitles": ["Question Text","Answer"],
+	"outputAnormalies":"\"Students in this poll report but don't exist in BYS Student List (Anomalies):\"",
+	"outputAbsent":"\"Students in BYS list but don't exist in this poll report (Absence):\"",
+	"outputzoom":"\"zoom poll report name:\"",
+	"studentlength":"196",
+	"readStudentTitles": ["Question Text","Answers","Given Answers"],
+	"QuestionTypes": [" ( Single Choice)"," ( Multiple Choice)"],
+	"AllAnswerTextIncludes":["Answer ",":"],
+	"AllPollTextIncludes":[" Poll ","question"],
+	"AnswerKeyCont":" Quizzes ANSWER KEY.txt",
+	"answerKeys":[{"key":"answerKey1"},{"key":"answerKey2"}]
+}
